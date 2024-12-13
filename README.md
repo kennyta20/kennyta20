@@ -19,6 +19,8 @@ I'm a young data scientist passionate about finding innovative solutions, skille
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 <!--
 **kennyta20/kennyta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
