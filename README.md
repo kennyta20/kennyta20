@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm a young data scientist passionate about finding innovative solutions, skilled in machine learning and analytics, and committed to continuous learning.
+
+
+
+
 
 <!--
 **kennyta20/kennyta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
