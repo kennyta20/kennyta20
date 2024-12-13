@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there my name is Kenny Tapia 👋
+
 I'm a young data scientist passionate about finding innovative solutions, skilled in machine learning and analytics, and committed to continuous learning.
 
-##Where to finding
+## Where to finding
 
 -[linkedin](www.linkedin.com/in/kenny-tapia)
+
+## Skils:
 
 
 <!--
