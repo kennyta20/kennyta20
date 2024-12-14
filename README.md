@@ -1,6 +1,6 @@
 ## Hi there, my name is Kenny Tapia 👋
 
-![Coding GIF 1](https://path-to-your-gif-1.gif)
+![Coding GIF 1]([https://path-to-your-gif-1.gif](https://es.pinterest.com/pin/765893480414630257/))
 ![Coding GIF 2](https://path-to-your-gif-2.gif)
 ![Coding GIF 3](https://path-to-your-gif-3.gif)
 
