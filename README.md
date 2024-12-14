@@ -1,5 +1,9 @@
 ## Hi there, my name is Kenny Tapia 👋
 
+![Coding GIF 1](https://path-to-your-gif-1.gif)
+![Coding GIF 2](https://path-to-your-gif-2.gif)
+![Coding GIF 3](https://path-to-your-gif-3.gif)
+
 👨‍💻 About Me:
 I am a data enthusiast with a strong passion for technology and problem-solving. I thrive on leveraging tools like machine learning and programming to tackle complex analytical challenges. 💻
 
